@@ -1,12 +1,12 @@
 /*
     # Endpoint URL #
-    
+
     https://api.github.com/legacy/repos/search/{query}
-    
+
     Note: Github imposes a rate limit of 60 request per minute. Documentation can be found at http://developer.github.com/v3/.
-    
+
     # Example Response JSON #
-    
+
     {
       "meta": {...},
       "data": {

@@ -15,3 +15,4 @@ While this is a relatively open-ended exercise, please abide by the following ru
 1. Be cognizant of unnecessary network noise. Strongly consider data caching.
 1. UI presentation and search UX is up to you.
 1. Build for the latest version of Chrome only.
+1. And lastly, please follow up with some thoughts on where you would take this feature post-submission. For example, maybe you'd refine the UI further, or process github data differently. Add these thoughts to the README. 
